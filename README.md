@@ -1,0 +1,1 @@
+# Little app for showing Bitcoin course in realtime
